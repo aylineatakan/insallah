@@ -1,1 +1,1 @@
-web: node app.js
+web: /home/ubuntu/environment/server/node app.js
