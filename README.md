@@ -14,9 +14,12 @@ Criptare parola:
 
 GoogleMaps:
 
-
+![](https://user-images.githubusercontent.com/44023558/81701978-5ff0fc00-9473-11ea-9c6e-3b506efd6ab0.png)
 
 ## Descriere arhitectura
+
+Aplicatia prezinta formular de login, register respectiv vizualizare harta cu locatie
+
 
 ##Exemple de request / response
 
