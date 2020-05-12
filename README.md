@@ -53,6 +53,16 @@ router.get('/dashbord' , ensureAuthenticated, (req, res) =>
     res.render('dashbord', {
         name: req.user.name
     }));
+    
+    //Login Page
+router.get('/login' , (req, res) => res.render('login'));
+
+//Register Page
+router.get('/register' , (req, res) => res.render('register'));
+
+//script
+router.get('/script', (req, res) => res.render('script'));
+
 }
 
 ```
