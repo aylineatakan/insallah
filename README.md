@@ -65,4 +65,42 @@ router.get('/script', (req, res) => res.render('script'));
 
 }
 
+_id
+: ObjectId
+5eb590539463f00acbd8288d
+name
+:
+"alex"
+email
+:
+"alexiosa@gmail.com"
+password
+:
+"$2b$10$dZEvw9eZBGx5epT/KOSjz.s7UmINZW8DH.45OlPvtRx9mLwYoSXtK"
+date
+:
+2020-05-08T17:01:07.826+00:00
+__v
+:
+0
+
+_id
+:ObjectId
+5eb55b7b1c05f803ae18122f
+name
+:
+"ayline"
+email
+:
+"aylineayline@gmail.com"
+password
+:
+"$2b$10$doxmlWj0DcZnuHAbW2VV7On.N259tKUOI7vgoFAC0crZYtvDWvEM6"
+date
+:
+2020-05-08T13:15:39.308+00:00
+__v
+:
+0
+
 ```
