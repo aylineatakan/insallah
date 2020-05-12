@@ -10,6 +10,11 @@ DataBase URI:
 ![](https://user-images.githubusercontent.com/44023558/81694998-b4dc4480-946a-11ea-8bb7-dbc1f1331a9b.png)
 
 Criptare parola:
+![](https://user-images.githubusercontent.com/44023558/81695005-b60d7180-946a-11ea-9814-3a7e5873e58e.png)
+
+GoogleMaps:
+
+
 
 ## Descriere arhitectura
 
