@@ -7,7 +7,7 @@ Nevoia unei baze de date era absolut necesara, asa ca am ales sa folosesc  Mongo
 
 DataBase URI:
 
-  
+![](https://user-images.githubusercontent.com/44023558/81694998-b4dc4480-946a-11ea-8bb7-dbc1f1331a9b.png)
 
 Criptare parola:
 
