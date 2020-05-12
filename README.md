@@ -13,12 +13,12 @@ Criptare parola:
 ![](https://user-images.githubusercontent.com/44023558/81695005-b60d7180-946a-11ea-9814-3a7e5873e58e.png)
 
 GoogleMaps:
-
+Pentru a afisa harta am folosit Google Platform Cloud pentru a genera un API key
 ![](https://user-images.githubusercontent.com/44023558/81701978-5ff0fc00-9473-11ea-9c6e-3b506efd6ab0.png)
 
 ## Descriere arhitectura
 
-Aplicatia prezinta formular de login, register respectiv vizualizare harta cu locatie
+Aplicatia prezinta formular de login, register respectiv vizualizare harta cu locatie. Un utilizator nou completeaza formularul, iar daca datele trec de validarile impuse acesta isi creaza un nou cont prin intermediul caruia ulterior se poate autentifica si vizualiza harta impreuna cu locatia curenta. 
 
 ![](https://user-images.githubusercontent.com/44023558/81695050-bf96d980-946a-11ea-9a56-fdef98c0f658.png)
 ![](https://user-images.githubusercontent.com/44023558/81695046-bf96d980-946a-11ea-8908-8e0760185cff.png)
