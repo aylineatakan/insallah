@@ -7,13 +7,14 @@ Nevoia unei baze de date era absolut necesara, asa ca am ales sa folosesc  Mongo
 
 DataBase URI:
 
+Pentru a stoca userii mi-am facut cont pe MongoDb si am creat o baza de date NoSql. Prin intermediul URI-ului am facut legatura intre aplicatie si baza de date cloud.
 ![](https://user-images.githubusercontent.com/44023558/81694998-b4dc4480-946a-11ea-8bb7-dbc1f1331a9b.png)
 
 Criptare parola:
 ![](https://user-images.githubusercontent.com/44023558/81695005-b60d7180-946a-11ea-9814-3a7e5873e58e.png)
 
 GoogleMaps:
-Pentru a afisa harta am folosit Google Platform Cloud pentru a genera un API key
+Pentru a afisa harta am folosit Google Platform Cloud pentru a genera un API key pe care ulterior l-am integrat in aplicatie.
 ![](https://user-images.githubusercontent.com/44023558/81701978-5ff0fc00-9473-11ea-9c6e-3b506efd6ab0.png)
 
 ## Descriere arhitectura
@@ -23,8 +24,7 @@ Aplicatia prezinta formular de login, register respectiv vizualizare harta cu lo
 ![](https://user-images.githubusercontent.com/44023558/81695050-bf96d980-946a-11ea-9a56-fdef98c0f658.png)
 ![](https://user-images.githubusercontent.com/44023558/81695046-bf96d980-946a-11ea-8908-8e0760185cff.png)
 ![](https://user-images.githubusercontent.com/44023558/81695041-be65ac80-946a-11ea-9edf-569ff1d963a7.png)
-##Exemple de request / response
-
+##Exemple de request / response (GET, POST)
 ``` 
 {
     //Login handle
