@@ -13,6 +13,9 @@ Pentru a stoca userii mi-am facut cont pe MongoDb si am creat o baza de date NoS
 Criptare parola:
 ![](https://user-images.githubusercontent.com/44023558/81695005-b60d7180-946a-11ea-9814-3a7e5873e58e.png)
 
+Useri:
+![](https://user-images.githubusercontent.com/44023558/81835326-cdbc2700-954a-11ea-9ad9-da6676d3fd90.png)
+
 GoogleMaps:
 Pentru a afisa harta am folosit Google Platform Cloud pentru a genera un API key pe care ulterior l-am integrat in aplicatie.
 ![](https://user-images.githubusercontent.com/44023558/81701978-5ff0fc00-9473-11ea-9c6e-3b506efd6ab0.png)
